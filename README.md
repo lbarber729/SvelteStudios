@@ -1,24 +1,29 @@
-# README
+# Svelte Studios
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## INTRODUCTION
 
-Things you may want to cover:
+A Rails web app for the presale of Svelte's new studios range of cycle clothing.
 
-* Ruby version
+## GETTING STARTED
 
-* System dependencies
+1. Fork/clone this repository using `git clone https://github.com/lbarber729/SvelteStudios`
 
-* Configuration
+2. Run in the terminal from the root directory -
 
-* Database creation
+```
+bundle install
 
-* Database initialization
+rspec # Run the tests to ensure it works
+rails server # Start the server at localhost:3000
+```
 
-* How to run the test suite
+<!-- ## ON HEROKU
 
-* Services (job queues, cache servers, search engines, etc.)
+Visit https://acebook-d-railed.herokuapp.com
 
-* Deployment instructions
+Interact as per below: -->
 
-* ...
+## HOW TO USE THE APP
+
+
+## USER STORIES
